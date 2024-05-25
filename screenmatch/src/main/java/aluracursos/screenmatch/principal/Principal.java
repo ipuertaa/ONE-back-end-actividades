@@ -30,7 +30,7 @@ public class Principal {
 
     private final String URL_BASE = "https://www.omdbapi.com/?t=";
 
-    private final String API_KEY = "&apikey=576e2847";
+    private final String API_KEY = "---";
 
     public void muestraMenu() {
 
